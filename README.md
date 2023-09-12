@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MUCHAS GRACIAS AFICIONES SUIIITourner le temps à l'orage
+=======
+ANCARA MESSI MESSI ANCARA MESSI MUCHAS GRACIAS AFICIONES SUIIITourner le temps à l'orage
+>>>>>>> branche2
 Revenir à l'état sauvage
 Forcer les portes, les barrages
 Sortir le loup de sa cage
